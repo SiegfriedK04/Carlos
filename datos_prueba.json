@@ -1,0 +1,23 @@
+[
+  {
+    "cip": "12345",
+    "nombre": "Ana Patricia Perez",
+    "telefono": "6677-8899",
+    "email": "ana.perez@qalab.com",
+    "estado": "activo"
+  },
+  {
+    "cip": "54821",
+    "nombre": "Luis Alberto Gomez",
+    "telefono": "6234-5178",
+    "email": "luis.gomez@qalab.com",
+    "estado": "pendiente"
+  },
+  {
+    "cip": "98265",
+    "nombre": "Maria Elena Torres",
+    "telefono": "6881-0042",
+    "email": "maria.torres@qalab.com",
+    "estado": "suspendido"
+  }
+]
