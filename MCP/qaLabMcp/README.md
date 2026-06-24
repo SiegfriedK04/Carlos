@@ -133,18 +133,7 @@ Si el cliente existe, la tool devolvera sus datos. Si no existe, mostrara un men
 
 ## Archivos importantes
 
-- [server.py](C:/Users/gabri/OneDrive/Documentos/MCP/qaLabMcp/server.py)
-- [datos_prueba.json](C:/Users/gabri/OneDrive/Documentos/MCP/qaLabMcp/datos_prueba.json)
-- [.vscode/mcp.json](C:/Users/gabri/OneDrive/Documentos/MCP/qaLabMcp/.vscode/mcp.json)
+- [server.py]
+- [datos_prueba.json]
+- [.vscode/mcp.json]
 
-## Entregables sugeridos
-
-Para la entrega final, incluye:
-
-- `server.py`
-- `.vscode/mcp.json`
-- `datos_prueba.json`
-- capturas donde se vea:
-  - la tool visible en Copilot
-  - el prompt usado
-  - el resultado devuelto
